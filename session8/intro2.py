@@ -1,0 +1,2 @@
+like = ["sport"]
+print(like)
